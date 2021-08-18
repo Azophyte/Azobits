@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures":
+    {
+        "all": "azobits:blocks/summoning_stone"
+    }
+}
